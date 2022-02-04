@@ -1,0 +1,23 @@
+.container{
+    background-color: red;
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    justify-content: space-around;
+    /* padding: 1rem; */
+}
+a{
+    padding: 1rem;
+}
+.imagen{
+    padding: 1rem;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

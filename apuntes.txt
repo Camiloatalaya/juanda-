@@ -1,0 +1,4 @@
+paso 1 = ir github 
+paso 2 = crear nuevo proyecto 
+comando: git init
+comando: git add . 
